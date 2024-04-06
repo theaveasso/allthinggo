@@ -6,4 +6,9 @@
 
 ## Topics
 1. Microservices
-    - [Kafka](https://kafka.apache.org/)
+- [Kafka](https://kafka.apache.org/)
+**Pre-requisites**
+- Start Docker Engine
+```
+docker compose up -d
+```
